@@ -28,6 +28,6 @@ end
 
 group :production do
 	gem 'pg'
-	gem 'railes_12factor'
+	gem 'rails_12factor'
 end	
 
